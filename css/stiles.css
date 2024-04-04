@@ -11,6 +11,8 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
+  margin-left: 156px;
 }
 .studio-logo {
   font-family: "Raleway", sans-serif;
@@ -21,10 +23,12 @@
   text-transform: uppercase;
   color: #2e2f42;
   margin-left: 0;
+  text-decoration: none;
+  margin-right: 76px;
 }
 
 .container-header-top {
-  width: 100%;
+  width: 1440px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -36,6 +40,10 @@
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-decoration: none;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 24px;
 }
 
 .h1 {
@@ -46,13 +54,29 @@
   letter-spacing: 0.02em;
   text-align: center;
   color: #461111;
+  margin-top: 100px;
 }
 
-.contacts-top-line {
+.contacts-top-line-tel {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
+  margin-right: 156px;
+  margin-left: 40px;
+}
+
+.contacts-top-line-email {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+  margin-right: 0;
+  margin-left: auto;
 }
